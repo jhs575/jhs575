@@ -1,4 +1,36 @@
 # Hi, I'm Shanto! 👋
+<html>
+<head>
+  <style>
+    /* Typing animation */
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+
+    .typed-message {
+      font-size: 24px;
+      font-family: 'Courier New', Courier, monospace;
+      overflow: hidden;
+      border-right: .15em solid #000;
+      white-space: nowrap;
+      margin: 0 auto;
+      width: 0;
+      animation: typing 4s steps(30) 1s 1 normal both;
+    }
+  </style>
+</head>
+<body>
+  <div class="typed-message">
+    Hello! I'm Shanto. Welcome to my GitHub.
+  </div>
+</body>
+</html>
+
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for clean code and creative solutions. Here's a bit more about me:
 

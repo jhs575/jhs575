@@ -1,42 +1,12 @@
 # Hi, I'm Shanto! 👋
-<html>
-<head>
-  <style>
-    /* Typing animation */
-    @keyframes typing {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
 
-    .typed-message {
-      font-size: 24px;
-      font-family: 'Courier New', Courier, monospace;
-      overflow: hidden;
-      border-right: .15em solid #000;
-      white-space: nowrap;
-      margin: 0 auto;
-      width: 0;
-      animation: typing 4s steps(30) 1s 1 normal both;
-    }
-  </style>
-</head>
-<body>
-  <div class="typed-message">
-    Hello! I'm Shanto. Welcome to my GitHub.
-  </div>
-</body>
-</html>
-
+![Typing Animation](https://media.giphy.com/media/VggJrzfhWVmDi/giphy.gif)
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for clean code and creative solutions. Here's a bit more about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Project Name](#)
+- 🔭 I’m currently working on [Echo Bazar E-Commerce](https://eco-bazar-575.netlify.app/)
 - 🌱 I’m currently learning **Web Development** (React, Node.js, etc.)
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Advanced JavaScript Concepts**
@@ -97,4 +67,4 @@ I love automating my development process. Here are some GitHub Actions workflows
 
 - [CI/CD for React Projects](https://github.com/jhs575/project-1)
 - [Automated Tests with Jest](https://github.com/jhs575/project-2)
-# jhs575
+

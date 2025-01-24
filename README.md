@@ -1,7 +1,5 @@
 # Hi, I'm Shanto! 👋
 
-![Typing Animation](https://media.giphy.com/media/VggJrzfhWVmDi/giphy.gif)
-
 Welcome to my GitHub profile! I'm a passionate software developer with a love for clean code and creative solutions. Here's a bit more about me:
 
 ## 🚀 About Me
@@ -29,7 +27,7 @@ Here are some of the technologies and tools I use:
 - MySQL, MongoDB
 
 ### Tools & Platforms
-- Git, GitHub
+- GitHub
 - Docker, Netlify
 
 ## 📈 GitHub Stats
